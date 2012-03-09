@@ -48,3 +48,4 @@ hi Visual     ctermfg=11  ctermbg=20   cterm=NONE
 hi WildMenu   ctermfg=11  ctermbg=20   cterm=NONE
 hi ErrorMsg   ctermfg=184 ctermbg=88   cterm=bold
 hi Error      ctermfg=15  ctermbg=95   cterm=NONE
+hi Function   ctermfg=212 ctermbg=NONE cterm=NONE
