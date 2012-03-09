@@ -13,8 +13,8 @@ if version > 580
     endif
 endif
 
+set t_Co=256
 let g:colors_name = "mahewincs"
-
 
 "lyj---//2006-03-15 @ 23:16 By Lyj---------------
 hi User1 guibg=darkblue guifg=yellow
