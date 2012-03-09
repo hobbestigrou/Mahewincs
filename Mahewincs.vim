@@ -34,6 +34,7 @@ hi ModeMsg    ctermfg=180 ctermbg=NONE cterm=NONE
 hi MoreMsg    ctermfg=167 ctermbg=NONE cterm=NONE
 hi Title      ctermfg=137 ctermbg=NONE cterm=NONE
 hi Number     ctermfg=50  ctermbg=NONE cterm=NONE
+hi Float      ctermfg=215 ctermbg=NONE cterm=NONE
 hi String     ctermfg=83  ctermbg=238  cterm=NONE
 hi Identifier ctermfg=3   ctermbg=NONE cterm=NONE
 hi Statement  ctermfg=26  ctermbg=NONE cterm=NONE
