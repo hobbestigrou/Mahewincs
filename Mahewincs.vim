@@ -6,11 +6,15 @@
 "TODO: Definition color for wildmenu, warningmessage, fold, fuction and gui.  
 
 set background=dark
-hi clear
-if exists( "syntax_on" )
-    syntax reset 
-endif 
+if version > 580
+     hi clear
+     if exists("syntax_on")
+         syntax reset
+    endif
+endif
+
 let g:colors_name = "mahewincs"
+
 
 "lyj---//2006-03-15 @ 23:16 By Lyj---------------
 hi User1 guibg=darkblue guifg=yellow
