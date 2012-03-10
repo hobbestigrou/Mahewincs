@@ -41,6 +41,9 @@ hi Identifier ctermfg=70  ctermbg=NONE cterm=NONE
 hi Statement  ctermfg=26  ctermbg=NONE cterm=NONE
 hi Conditional ctermfg=210 ctermbg=NONE cterm=NONE
 hi Delimiter   ctermfg=5 ctermbg=NONE cterm=NONE
+hi Typedef     ctermfg=213 ctermbg=NONE cterm=NONE
+hi PreCondit   ctermfg=66 ctermbg=NONE cterm=NONE
+hi Include     ctermfg=66 ctermbg=NONE cterm=NONE
 hi type       ctermfg=15  ctermbg=NONE cterm=NONE
 hi Question   ctermfg=220 ctermbg=NONE cterm=NONE
 hi VertSplit  ctermfg=11  ctermbg=20   cterm=NONE
