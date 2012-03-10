@@ -37,7 +37,7 @@ hi Title      ctermfg=137 ctermbg=NONE cterm=NONE
 hi Number     ctermfg=50  ctermbg=NONE cterm=NONE
 hi Float      ctermfg=215 ctermbg=NONE cterm=NONE
 hi String     ctermfg=83  ctermbg=238  cterm=NONE
-hi Identifier ctermfg=3   ctermbg=NONE cterm=NONE
+hi Identifier ctermfg=70  ctermbg=NONE cterm=NONE
 hi Statement  ctermfg=26  ctermbg=NONE cterm=NONE
 hi Conditional ctermfg=210 ctermbg=NONE cterm=NONE
 hi Delimiter   ctermfg=5 ctermbg=NONE cterm=NONE
