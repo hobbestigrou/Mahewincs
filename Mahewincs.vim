@@ -59,3 +59,4 @@ hi Error      ctermfg=15  ctermbg=95   cterm=NONE
 hi Cursor     ctermfg=155 ctermbg=58   cterm=NONE
 hi Operator   ctermfg=210 ctermbg=NONE cterm=NONE
 hi Function   ctermfg=212 ctermbg=NONE cterm=NONE
+hi Tag        ctermfg=176 ctermbg=NONE cterm=NONE
