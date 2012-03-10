@@ -66,7 +66,7 @@ hi PMenuSbar                   ctermfg=255  ctermbg=61   cterm=NONE
 hi PMenuSel                    ctermfg=11   ctermbg=237  cterm=NONE
 hi PMenu                       ctermfg=255  ctermbg=4    cterm=NONE
 hi PMenuThumb                  ctermfg=255  ctermbg=61   cterm=NONE
-hi WarningMsg                  ctermfg=11   ctermbg=20   cterm=none
+hi WarningMsg                  ctermfg=11   ctermbg=20   cterm=NONE
 hi ErrorMsg                    ctermfg=184  ctermbg=88   cterm=bold
 hi Error                       ctermfg=15   ctermbg=95   cterm=NONE
 hi Cursor                      ctermfg=155  ctermbg=58   cterm=NONE
@@ -144,7 +144,7 @@ hi Todo                        guifg=#f50c20 guibg=#d0a060 guisp=#d0a060 gui=NON
 hi StatusLine                  guifg=#0af70a guibg=#0011ff guisp=#0011ff gui=NONE
 hi StatusLineNC                guifg=#0af70a guibg=#0011ff guisp=#0011ff gui=NONE
 hi IncSearch                   guifg=#133002 guibg=#b57253 guisp=#b57253 gui=NONE
-hi Search                      guifg=#0af70a guibg=#0011ff guisp=#0011ff gui=none
+hi Search                      guifg=#0af70a guibg=#0011ff guisp=#0011ff gui=NONE
 hi Visual                      guifg=#e1f009 guibg=#0d0de0 guisp=#0d0de0 gui=NONE
 hi WildMenu                    guifg=#81960c guibg=#7d6009 guisp=#7d6009 gui=NONE
 hi PMenuSbar                   guifg=#eeeeee guibg=#6e6eaf guisp=#6e6eaf gui=NONE
