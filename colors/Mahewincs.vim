@@ -66,7 +66,7 @@ hi PMenuSbar                   ctermfg=255  ctermbg=61   cterm=NONE
 hi PMenuSel                    ctermfg=11   ctermbg=237  cterm=NONE
 hi PMenu                       ctermfg=255  ctermbg=4    cterm=NONE
 hi PMenuThumb                  ctermfg=255  ctermbg=61   cterm=NONE
-hi WarningMsg                  ctermfg=NONE ctermbg=178 cterm=NONE
+hi WarningMsg                  ctermfg=11   ctermbg=20   cterm=none
 hi ErrorMsg                    ctermfg=184  ctermbg=88   cterm=bold
 hi Error                       ctermfg=15   ctermbg=95   cterm=NONE
 hi Cursor                      ctermfg=155  ctermbg=58   cterm=NONE
