@@ -3,7 +3,7 @@
 " Maintainer: Natal Ngétal <hobbestigrou@erakis.im>
 " Date Last Change: Mars 27, 2010
 " Version: 0.1
-"TODO: Definition color for wildmenu, warningmessage, fold, fuction and gui.  
+"TODO: Definition constant and so on, and gui.
 
 set background=dark
 if version > 580
