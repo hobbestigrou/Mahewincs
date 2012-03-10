@@ -28,6 +28,7 @@ hi User5 guibg=darkblue guifg=lightgreen
 hi Normal     ctermfg=3   ctermbg=NONE cterm=NONE
 hi NonText    ctermfg=104 ctermbg=NONE cterm=bold
 hi Comment    ctermfg=2   ctermbg=NONE cterm=NONE
+hi SpecialComment ctermfg=176 ctermbg=NONE cterm=NONE
 hi Directory  ctermfg=48  ctermbg=NONE cterm=NONE
 hi LineNr     ctermfg=10  ctermbg=NONE cterm=NONE
 hi ModeMsg    ctermfg=180 ctermbg=NONE cterm=NONE
