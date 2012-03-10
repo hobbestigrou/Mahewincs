@@ -63,3 +63,7 @@ hi Function   ctermfg=212 ctermbg=NONE cterm=NONE
 hi Tag        ctermfg=176 ctermbg=NONE cterm=NONE
 hi Folded     ctermfg=252 ctermbg=54 cterm=NONE
 hi FoldColumn ctermfg=104 ctermbg=236 cterm=NONE
+hi DiffText   ctermfg=230 ctermbg=239 cterm=NONE
+hi DiffAdd    ctermfg=230 ctermbg=65 cterm=NONE
+hi DiffDelete ctermfg=230 ctermbg=95 cterm=NONE
+hi DiffChange ctermfg=230 ctermbg=24 cterm=NONE
