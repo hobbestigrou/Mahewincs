@@ -60,3 +60,5 @@ hi Cursor     ctermfg=155 ctermbg=58   cterm=NONE
 hi Operator   ctermfg=210 ctermbg=NONE cterm=NONE
 hi Function   ctermfg=212 ctermbg=NONE cterm=NONE
 hi Tag        ctermfg=176 ctermbg=NONE cterm=NONE
+hi Folded     ctermfg=252 ctermbg=54 cterm=NONE
+hi FoldColumn ctermfg=104 ctermbg=236 cterm=NONE
