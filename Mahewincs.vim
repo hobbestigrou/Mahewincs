@@ -1,7 +1,7 @@
 
 " mahewincs.vim: a colorscheme
 " Maintainer: Natal Ngétal <hobbestigrou@erakis.im>
-" Date Last Change: Mars 27, 2010
+" Date Last Change: March 10, 2012
 " Version: 0.1
 "TODO: Definition constant and so on, and gui.
 
