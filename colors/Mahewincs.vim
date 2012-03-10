@@ -106,6 +106,7 @@ hi SpecialKey                  ctermfg=135  ctermbg=NONE cterm=NONE
 hi MatchParen                  ctermfg=238  ctermbg=120  cterm=NONE
 hi Repeat                      ctermfg=213  ctermbg=NONE cterm=NONE
 
+"Color definition for gui gvim
 hi Normal                      guifg=#753f05 guibg=#1e1e27 guisp=#1e1e27 gui=NONE
 hi NonText                     guifg=#8b8bcd guibg=NONE    guisp=NONE    gui=NONE
 hi Comment                     guifg=#0b4712 guibg=NONE    guisp=NONE    gui=NONE
