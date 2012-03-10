@@ -39,6 +39,7 @@ hi String     ctermfg=83  ctermbg=238  cterm=NONE
 hi Identifier ctermfg=3   ctermbg=NONE cterm=NONE
 hi Statement  ctermfg=26  ctermbg=NONE cterm=NONE
 hi Conditional ctermfg=210 ctermbg=NONE cterm=NONE
+hi Delimiter   ctermfg=5 ctermbg=NONE cterm=NONE
 hi type       ctermfg=15  ctermbg=NONE cterm=NONE
 hi Question   ctermfg=220 ctermbg=NONE cterm=NONE
 hi VertSplit  ctermfg=11  ctermbg=20   cterm=NONE
