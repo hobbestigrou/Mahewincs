@@ -2,7 +2,8 @@
 " Maintainer: Natal Ngétal <hobbestigrou@erakis.im>
 " Date Last Change: March 10, 2012
 " Version: 0.1
-"TODO: Definition constant and so on, and gui.
+"TODO: Definition constant and so on, review few color in a gui, and few color
+"for term.
 
 set background=dark
 if version > 580
