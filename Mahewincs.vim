@@ -45,7 +45,8 @@ hi type       ctermfg=15  ctermbg=NONE cterm=NONE
 hi Question   ctermfg=220 ctermbg=NONE cterm=NONE
 hi VertSplit  ctermfg=11  ctermbg=20   cterm=NONE
 hi Todo       ctermfg=196 ctermbg=179  cterm=NONE
-hi StatusLine ctermbg=4   ctermfg=2    cterm=NONE
+hi StatusLine   ctermbg=4   ctermfg=2    cterm=NONE
+hi StatusLineNC ctermfg=250 ctermbg=60 cterm=NONE
 hi IncSearch  ctermfg=22  ctermbg=137  cterm=NONE
 hi Search     ctermfg=10  ctermbg=21   cterm=NONE
 hi Visual     ctermfg=11  ctermbg=20   cterm=NONE
